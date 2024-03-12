@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align=center> Hi there 👋 </h1>
+
+<div align=center>
+  <img width=450 height=200  src="https://streak-stats.demolab.com?user=maxelonej&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub streak" /> <img width=425 height=200 src="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <a href="https://github.com/maxelonej/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&hide=shell&layout=pie" alt="Top Langs" /></a>
+</div>
+
+
+
 
 <!--
-**maxelonedev/maxelonedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
