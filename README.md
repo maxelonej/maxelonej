@@ -1,7 +1,9 @@
 <h1 align=center> Hi there 👋 </h1>
 
 <div align=center>
-  <img width=450 height=200  src="https://streak-stats.demolab.com?user=maxelonej&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub streak" /> <img width=425 height=200 src="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img width=450 height=200  src="https://streak-stats.demolab.com?user=maxelonej&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub streak" /><img width=425 height=200 src="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+</div>
+<div align=center>
   <a href="https://github.com/maxelonej/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&hide=shell&layout=pie" alt="Top Langs" /></a>
 </div>
 
