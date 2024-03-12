@@ -1,14 +1,42 @@
 <h1 align=center> Hi there 👋 </h1>
 
-<div align=center>
-  <img width=450 height=200  src="https://streak-stats.demolab.com?user=maxelonej&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub streak" /><img width=425 height=200 src="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-</div>
-<div align=center>
-  <a href="https://github.com/maxelonej/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&hide=shell&layout=pie" alt="Top Langs" /></a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxelonej&show_icons=true&hide_border=true" />
+</picture>
 
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=maxelonej&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=maxelonej&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=maxelonej&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
+</picture>
 
+<br>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&hide=shell&layout=pie"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&hide_border=true&hide=shell&layout=pie"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&hide_border=true&hide=shell&layout=pie" />
+</picture>
 
 <!--
 - 🔭 I’m currently working on ...
