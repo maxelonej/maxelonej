@@ -29,7 +29,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&hide=shell&layout=pie"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&theme=dark&hide_border=true&layout=pie"
     media="(prefers-color-scheme: dark)"
   />
   <source
