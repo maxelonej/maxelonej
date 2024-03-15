@@ -39,6 +39,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxelonej&hide_border=true&hide=shell&layout=pie" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://leetcard.jacoblin.cool/maxelonej?theme=dark&ext=activity"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://leetcard.jacoblin.cool/maxelonej?ext=activity"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width=470 src="https://leetcard.jacoblin.cool/maxelonej?ext=activity" />
+</picture>
+
+<br>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
