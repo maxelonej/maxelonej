@@ -15,5 +15,5 @@
   &nbsp;
 	<code><a href='https://www.figma.com/'><img width="60" src="./img/dev logos/figma.png" alt="Figma" title="Figma"/></a></code>
   &nbsp;
-	<code><a href='https://www.linux.org/'><img width="60" src="./img/dev logos/figma.png" alt="Linux" title="Linux"/></a></code>
+	<code><a href='https://www.linux.org/'><img width="60" src="./img/dev logos/linux.png" alt="Linux" title="Linux"/></a></code>
 </div>
