@@ -1,9 +1,10 @@
+[project_dotfiles]: https://github.com/maxelonej/dotfiles
 [project_cac]: https://github.com/maxelonej/communication-activity-core
 [project_challenges]: https://github.com/maxelonej/challenges
 [contact_tg]: https://t.me/maxelonej
 [contact_gmail]: mailto:maxelonej@gmail.com
 
-🔭 I’m currently working on [cac][project_cac] and [challenges][project_challenges]!<br>
+🔭 I’m currently working on [dotfiles][project_dotfiles] and [challenges][project_challenges]!<br>
 🌱 I’m currently learning React, Pug, SCSS/Sass<br>
 👯 I’m looking to collaborate with other content creators<br>
 🛠 I code with&nbsp;
