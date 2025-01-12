@@ -22,6 +22,12 @@
 
 
 ### <samp>portfolio</samp>
-![Fuel systems](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fuel-systems&show_icons=true&theme=transparent)
-![Tech map](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=tech-map&show_icons=true&theme=transparent)
-![Communication Activity Core](https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=communication-activity-core&show_icons=true&theme=transparent)
+<a href="https://github.com/maxelonej/fuel-systems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=fuel-systems&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/maxelonej/tech-map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=tech-map&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/maxelonej/communication-activity-core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxelonej&repo=communication-activity-core&show_icons=true&theme=dark" />
+</a>
