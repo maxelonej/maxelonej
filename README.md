@@ -1,7 +1,7 @@
 [contact_tg]: https://t.me/maxelonej
 [contact_gmail]: mailto:maxelonej@gmail.com
 
-Hi there 👋<br>
+### Hi there 👋<br>
 🌱 I’m currently learning React<br>
 👯 I’m looking to collaborate with other content creators<br>
 🛠 I code with:&nbsp;
