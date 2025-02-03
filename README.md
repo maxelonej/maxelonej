@@ -1,5 +1,6 @@
 [contact_tg]: https://t.me/maxelonej
 [contact_gmail]: mailto:maxelonej@gmail.com
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='220'>
 
 ### Hi there 👋<br>
 🌱 I’m currently learning React<br>
