@@ -12,9 +12,9 @@
 <code><a href='https://tailwindcss.com/' target='_blank'><img width="32" src="./assets/icons/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS"/></a></code>,
 <code><a href='https://pugjs.org/' target='_blank'><img width="32" src="./assets/icons/pug.svg" alt="Pug" title="Pug"/></a></code> 
 <code><a href='https://sass-lang.com/' target='_blank'><img width="32" src="./assets/icons/sass.png" alt="Sass" title="Sass"/></a></code>,
-<code><img width="32" src="./assets/icons/html5.svg" alt="HTML5" title="HTML5"/></code> 
-<code><img width="32" src="./assets/icons/css3.svg" alt="CSS3" title="CSS3"/></code> 
-<code><img width="32" src="./assets/icons/javascript_es5.svg" alt="JavaScript" title="JavaScript"/></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img width="32" src="./assets/icons/html5.svg" alt="HTML5" title="HTML5"/></a></code> 
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img width="32" src="./assets/icons/css3.svg" alt="CSS3" title="CSS3"/></a></code> 
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img width="32" src="./assets/icons/javascript_es5.svg" alt="JavaScript" title="JavaScript"/></a></code>
 <br>
 
 📫 Contact: [email][contact_gmail] | [telegram][contact_tg]
