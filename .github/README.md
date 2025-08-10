@@ -1,5 +1,5 @@
-[contact_tg]: https://t.me/maxelonej
-[contact_gmail]: mailto:maxelonej@gmail.com
+[contact_tg]: https://t.me/makesomelayouts
+[contact_gmail]: mailto:makesomelayouts@gmail.com
 
 <a href="https://github.com/maxelonej" target="_blank" rel="noopener noreferrer">
   <img align="right" src="./assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
